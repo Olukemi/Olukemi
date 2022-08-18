@@ -1,5 +1,5 @@
 ### Hi there, I'm Kemi 👋
-Fun fact, not only do I know Pyhton, Java, C/C++ and more, I alse know a bit of morse code :) Browse around and let me know what you think!
+Fun fact, not only do I know Pyhton, Java, C/C++ and more, I also know a bit of morse code :) Browse around and let me know what you think!
 <!--
 **Olukemi/Olukemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
