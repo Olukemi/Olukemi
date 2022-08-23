@@ -1,5 +1,5 @@
 ### Hi there, I'm Kemi 👋
-Fun fact, not only do I know Pyhton, Java, C/C++ and more, I also know a bit of morse code :) Browse around and let me know what you think!
+🎓 I'm currently pursuing an undergraduate degree (BEng.), Computer Engineering at McMaster University (Sept 2020 - April 2024) 👩🏾‍💻 I'm passionate about technology, artificial intelligence, mobile app development and building applications to improve our world! 🎯 Aspiring Project Manager/Tech Lead & Software Developer 💃🏾 My hobbies include art (sketch drawing, digital art, etc), dancing, knitting and writing stories! ✨ Fun fact, not only do I know Pyhton, Java, C/C++ and more, I also know a bit of morse code ☺️ Browse around and let me know what you think!
 <!--
 **Olukemi/Olukemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
