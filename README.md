@@ -3,8 +3,9 @@
 - 👩🏾‍💻 I'm passionate about technology, artificial intelligence, mobile app development and building applications to improve our world!
 - 🎯 Aspiring Project Manager/Tech Lead & Software Developer
 - 💃🏾 My hobbies include art (sketch drawing, digital art, etc), dancing, knitting and writing poems!
-- ✨ Fun fact, I was Valedictorian for the Faculty of Engineering for my graduating class (Class of 2024) ☺️ Browse around and let me know what you think!
+- ✨ Fun fact, I was Valedictorian for the Faculty of Engineering for my graduating class (Class of 2024)
 - 📄 [Olukemi Odujinrin Resume 2025.pdf](https://github.com/user-attachments/files/18296438/Olukemi.Odujinrin.Resume.2025.pdf)
+- ☺️ Browse around and let me know what you think!
 
 <!--
 **Olukemi/Olukemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
